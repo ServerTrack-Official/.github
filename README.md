@@ -1,6 +1,6 @@
 # 🚀 ServerTrack.io | The Future of Server-Side Tracking
 
-![ServerTrack Header](https://raw.githubusercontent.com/servertrack-io/.github/st_logo1.png)
+![ServerTrack Header](https://raw.githubusercontent.com/ServerTrack-Official/.github/main/profile/header-image.png)
 
 ### Reclaim 100% of your marketing data. 
 ServerTrack.io is a high-performance, managed server-side tagging (SST) infrastructure designed to bypass ad-blockers, overcome ITP/iOS privacy restrictions, and fix the "data gap" in modern digital marketing.
